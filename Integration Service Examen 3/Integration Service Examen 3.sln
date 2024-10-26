@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Integration Service Examen 3", "Integration Service Examen 3\Integration Service Examen 3.dtproj", "{AC40F394-91A9-4300-9AF0-7377F63FE5DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC40F394-91A9-4300-9AF0-7377F63FE5DD}.Development|Default.ActiveCfg = Development
+		{AC40F394-91A9-4300-9AF0-7377F63FE5DD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDCC89BE-FF3E-432E-BB1E-8A7930D2B933}
+	EndGlobalSection
+EndGlobal
